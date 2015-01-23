@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Element">
+        <attr name="elementTitle" format="string"/>
+        <attr name="elementValue" format="string"/>
+    </declare-styleable>
+
+</resources>
